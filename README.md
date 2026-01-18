@@ -1,3 +1,4 @@
+1700 lines (Which is a LOT for a unity project, this is probably also my most in-depth, custom and technical project to date (Jan 2026).
 Start the game, shoot around! 
 As this is to show my previous coding experience, the unecessary (and large) unity project is not fully uploaded. 
 Furthermore to the description, this project uses my self-made gunmodels, animations done in the unity editor, a sniper with a 
